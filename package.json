@@ -4,7 +4,7 @@
   "description": "메일건의 메일을 디스코드 Hook으로 전송해줍니다.",
   "main": "index.js",
   "scripts": {
-    "test": "npm start"
+    "start": "node index.js"
   },
   "keywords": [
     "Mailgun", "Discord Mailgun", "Discord Mailgun Hook"
