@@ -1,14 +1,19 @@
 {
   "name": "mailgun-discord-mailbot",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "메일건의 메일을 디스코드 Hook으로 전송해줍니다.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "node test/test.js"
   },
   "keywords": [
     "Mailgun", "Discord Mailgun", "Discord Mailgun Hook"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanbitgaramsource/mailgun-discord-mailbot.git"
+  },
   "author": "한빛가람(HanbitGaram)",
   "license": "MIT",
   "dependencies": {
