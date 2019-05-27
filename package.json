@@ -1,7 +1,7 @@
 {
   "name": "mailgun-discord-mailbot",
   "version": "1.0.5",
-  "description": "메일건의 메일을 디스코드 Hook으로 전송해줍니다.",
+  "description": "Mailgun mail is send to Discord Hook.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
