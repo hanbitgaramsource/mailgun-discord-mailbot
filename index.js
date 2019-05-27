@@ -1,3 +1,8 @@
 'use strict'
 
-module.exports = require('./bin/start');
+const mail_bot = require('./bin/start');
+
+exports.hook = function(URL){
+    mail_bot.URL = URL;
+    console.log(URL);
+}
