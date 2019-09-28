@@ -1,4 +1,6 @@
 # mailgun-discord-mailbot
+[![Build Status](https://travis-ci.com/hanbitgaramsource/mailgun-discord-mailbot.svg?branch=master)](https://travis-ci.com/hanbitgaramsource/mailgun-discord-mailbot)
+
 ## KOR
 Mailgun의 메일을 Discord로 송신하는 디스코드용 메일 봇입니다.
 
